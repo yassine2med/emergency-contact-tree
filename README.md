@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="emergency-contact-tree" width="100%"></p>
+
 # emergency-contact-tree
 
 When something goes wrong in a building, one person phoning twenty others wastes the first minutes. This tool reads a roster and builds a call tree in which each person phones only a few others, and it rebuilds the tree when people are away.
