@@ -2,6 +2,8 @@
 
 # emergency-contact-tree
 
+[![CI](https://github.com/yassine2med/emergency-contact-tree/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/emergency-contact-tree/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 When something goes wrong in a building, one person phoning twenty others wastes the first minutes. This tool reads a roster and builds a call tree in which each person phones only a few others, and it rebuilds the tree when people are away.
 
 ![Screenshot](docs/screenshot.png)
